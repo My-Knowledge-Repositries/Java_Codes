@@ -1,3 +1,5 @@
+package Assignment2;
+
 public class Dec {
 //    static void main(String args[]){
 //        System.out.println("sdjs");

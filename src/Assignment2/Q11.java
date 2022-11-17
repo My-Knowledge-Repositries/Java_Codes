@@ -1,3 +1,5 @@
+package Assignment2;
+
 public class Q11 {
     public static void main(String[] args) {
         int computing, maths, science, english;

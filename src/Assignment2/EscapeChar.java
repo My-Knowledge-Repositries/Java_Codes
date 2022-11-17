@@ -1,3 +1,5 @@
+package Assignment2;
+
 public class EscapeChar {
     public static void main(String[] args) {
         System.out.println("Java is a typed language"); //A

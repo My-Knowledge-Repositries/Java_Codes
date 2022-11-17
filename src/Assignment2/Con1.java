@@ -1,4 +1,6 @@
-    public class Con1 {
+package Assignment2;
+
+public class Con1 {
         public static void main(String[] args) {
             inchToMill(2);
         }

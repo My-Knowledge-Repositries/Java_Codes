@@ -1,3 +1,5 @@
+package Assignment2;
+
 public class Q21 {
     public static void main(String[] args) {
         int sum=0;

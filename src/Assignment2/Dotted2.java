@@ -1,3 +1,5 @@
+package Assignment2;
+
 public class Dotted2 {
     public static void main(String[] args) {
         System.out.println("*");
